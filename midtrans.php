@@ -1,4 +1,4 @@
 <?php
 // Konfigurasi Midtrans
-define("MIDTRANS_SERVER_KEY", "ISI_DENGAN_SERVER_KEY_ANDA");
-define("MIDTRANS_CLIENT_KEY", "ISI_DENGAN_CLIENT_KEY_ANDA");
+define("MIDTRANS_SERVER_KEY", "Mid-client-NdpyuGGzYrSGOIsF");
+define("MIDTRANS_CLIENT_KEY", "Mid-server-P4lAv_e9MKXfs5mQaR5FNm5s");
